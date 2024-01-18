@@ -1,0 +1,5 @@
+name: Drupal Hello
+type: module
+description: 'This module says hello'
+package: EDteam
+core_version_requirement: 10.x
